@@ -1,0 +1,24 @@
+{
+  "name": "ptch-panel-frontend",
+  "version": "1.0.0",
+  "description": "React based front end.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srahman-057/ptch-panel.git"
+  },
+  "keywords": [
+    "cpanel",
+    "control",
+    "panel"
+  ],
+  "author": "srahman057",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srahman-057/ptch-panel/issues"
+  },
+  "homepage": "https://github.com/srahman-057/ptch-panel#readme"
+}
